@@ -1,0 +1,2 @@
+# HalloweenShopping
+fixed: autoplay sliders
